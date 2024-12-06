@@ -217,7 +217,7 @@ h1 {
   border-radius: 30px;
 }
 
-@media (max-width: 520px) and (min-width: 350px) {
+@media (max-width: 720px) and (min-width: 350px) {
   .img-2M {
     display: none;
   }
