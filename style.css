@@ -811,16 +811,18 @@ h1 {
   flex-direction: column;
   padding: 80px 135px 155px;
 }
+
 .K01 {
   width: 222px;
   height: 101px;
-  position: absolute;
+  position: relative;
   background-image: url("./imgk/01K.png");
   background-repeat: no-repeat;
   background-size: contain;
-  top: 0%;
-  left: 0%;
+  top: -4.23%;
+  left: -11%;
 }
+
 .headerK1 {
   width: 100%;
   height: 110px;
@@ -829,6 +831,7 @@ h1 {
   justify-content: space-between;
   flex-direction: column;
 }
+
 .headerK1 p {
   text-align: center;
   color: #fff;
@@ -841,6 +844,7 @@ h1 {
   letter-spacing: 3px;
   text-transform: uppercase;
 }
+
 .headerK1 h1 {
   text-align: center;
   color: #fff;
@@ -851,6 +855,7 @@ h1 {
   font-weight: 700;
   line-height: 64px;
 }
+
 .orderK {
   width: 100%;
   display: flex;
@@ -858,6 +863,7 @@ h1 {
   justify-content: center;
   flex-direction: row;
 }
+
 .boxK01 {
   width: 284px;
   height: 384px;
@@ -868,6 +874,7 @@ h1 {
   background-color: white;
   padding: 40px 30px;
 }
+
 .contactK h1 {
   height: 70px;
   color: #171b1b;
@@ -877,6 +884,7 @@ h1 {
   font-weight: 700;
   line-height: 48px;
 }
+
 .contactK p {
   color: rgba(51, 51, 51, 0.5);
   font-family: "DM Sans";
@@ -885,6 +893,7 @@ h1 {
   font-weight: 400;
   line-height: 32px;
 }
+
 .pK {
   color: #171b1b;
   font-family: Oswald;
@@ -895,6 +904,7 @@ h1 {
   letter-spacing: 3px;
   text-transform: uppercase;
 }
+
 .boxK01:hover {
   width: 302px;
   height: 416px;
@@ -906,6 +916,7 @@ h1 {
   cursor: pointer;
   padding: 50px 30px;
 }
+
 .K02 {
   width: 160px;
   height: 190px;
@@ -913,9 +924,10 @@ h1 {
   background-image: url("./imgk/02K.ong.png");
   background-repeat: no-repeat;
   background-size: contain;
-  top: 110%;
+  top: 440%;
   left: calc(100% - 160px);
 }
+
 .recipes {
   width: 100%;
   display: flex;
@@ -923,12 +935,14 @@ h1 {
   justify-content: space-between;
   flex-direction: column;
 }
+
 .headerK2 {
   width: 100%;
   display: flex;
   flex-direction: column;
   gap: 20px;
 }
+
 .headerK2 p {
   color: #fff;
   font-family: Oswald;
@@ -940,6 +954,7 @@ h1 {
   text-transform: uppercase;
   margin-top: 150px;
 }
+
 .headerK2 h1 {
   width: 650px;
   color: #fff;
@@ -950,6 +965,7 @@ h1 {
   line-height: 64px;
   margin-bottom: 60px;
 }
+
 .orderK1 {
   width: 100%;
   display: flex;
@@ -958,6 +974,7 @@ h1 {
   flex-direction: row;
   gap: 30px;
 }
+
 .deliciousK {
   width: 570px;
   height: 736px;
@@ -967,10 +984,12 @@ h1 {
   justify-content: flex-start;
   flex-direction: column;
 }
+
 .deliciousK > img {
   width: 570px;
   height: 496px;
 }
+
 .bottomK1 {
   width: 100%;
   height: 240px;
@@ -980,6 +999,7 @@ h1 {
   flex-direction: column;
   padding: 33px 48px;
 }
+
 .bottomK1 > p {
   color: #171b1b;
   font-family: Oswald;
@@ -990,6 +1010,7 @@ h1 {
   letter-spacing: 3px;
   text-transform: uppercase;
 }
+
 .bottomK1 > h1 {
   color: #171b1b;
   font-family: Ultra;
@@ -998,6 +1019,7 @@ h1 {
   font-weight: 700;
   line-height: 48px;
 }
+
 .lastTimeK {
   width: 100%;
   display: flex;
@@ -1005,6 +1027,7 @@ h1 {
   justify-content: space-between;
   flex-direction: row;
 }
+
 .lastTimeK p {
   width: 322px;
   color: rgba(51, 51, 51, 0.5);
@@ -1014,6 +1037,7 @@ h1 {
   font-weight: 400;
   line-height: 32px;
 }
+
 .lastTimeK1 {
   width: 80px;
   display: flex;
@@ -1021,6 +1045,7 @@ h1 {
   justify-content: space-between;
   flex-direction: row;
 }
+
 .lastTimeK1 p {
   width: max-content;
   color: #171b1b;
@@ -1031,16 +1056,19 @@ h1 {
   font-weight: 400;
   line-height: 32px;
 }
+
 .lastTimeK1 img {
   width: 22px;
   height: 22px;
 }
+
 .fourK {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
   gap: 30px;
 }
+
 .bakeryK1 {
   width: 270px;
   height: 352px;
@@ -1050,10 +1078,12 @@ h1 {
   justify-content: flex-start;
   flex-direction: column;
 }
+
 .bakeryK1 > img {
   width: 270px;
   height: 208px;
 }
+
 .bottomK {
   width: 100%;
   height: calc(352px - 208px);
@@ -1063,6 +1093,7 @@ h1 {
   flex-direction: column;
   padding: 15px 28px;
 }
+
 .timeK > p {
   width: 40px;
   color: rgba(51, 51, 51, 0.5);
@@ -1072,6 +1103,7 @@ h1 {
   font-weight: 400;
   line-height: 32px;
 }
+
 .timek2 p {
   width: max-content;
   color: #171b1b;
@@ -1080,8 +1112,9 @@ h1 {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 32px; /* 133.333% */
+  line-height: 32px;
 }
+
 .bottomK > p {
   color: #171b1b;
   font-family: "DM Sans";
@@ -1090,6 +1123,7 @@ h1 {
   font-weight: 400;
   line-height: 32px;
 }
+
 .timeK {
   width: 100%;
   display: flex;
@@ -1097,6 +1131,7 @@ h1 {
   justify-content: space-between;
   flex-direction: row;
 }
+
 .timek2 {
   width: 55px;
   display: flex;
@@ -1104,10 +1139,12 @@ h1 {
   justify-content: space-between;
   flex-direction: row;
 }
+
 .imgClock {
   width: 16px;
   height: 16px;
 }
+
 .buttonK {
   width: 170px;
   height: 48px;
@@ -1126,6 +1163,7 @@ h1 {
   margin-top: 40px;
   cursor: pointer;
 }
+
 .K03 {
   width: 152px;
   height: 136px;
@@ -1133,9 +1171,10 @@ h1 {
   background-image: url("./imgk/03K.png");
   background-repeat: no-repeat;
   background-size: contain;
-  top: calc(2110px - 136px);
+  top: 603%;
   left: 0%;
 }
+
 @media (max-width: 520px) and (min-width: 350px) {
   .process {
     width: 100%;
@@ -1146,19 +1185,24 @@ h1 {
     flex-direction: column;
     padding: 100px 20px 170px;
   }
+
   .headerK1 {
     font-size: 40px;
     line-height: 48px;
   }
+
   .orderK {
     flex-direction: column;
   }
+
   .K02 {
     top: 300%;
   }
+
   .K03 {
     top: calc(4910px - 136px);
   }
+
   .headerK2 h1 {
     width: 247px;
     color: #fff;
@@ -1168,14 +1212,17 @@ h1 {
     font-weight: 700;
     line-height: 48px;
   }
+
   .deliciousK {
     width: 329px;
     height: 608px;
   }
+
   .deliciousK > img {
     width: 329px;
     height: 286px;
   }
+
   .bottomK1 {
     width: 100%;
     height: calc(608px - 286px);
@@ -1185,20 +1232,25 @@ h1 {
     flex-direction: column;
     padding: 28px;
   }
+
   .lastTimeK1 {
     gap: 5px;
   }
+
   .orderK1 {
     flex-direction: column;
   }
+
   .bakeryK1 {
     width: 329px;
     height: 368px;
   }
+
   .bakeryK1 > img {
     width: 329px;
     height: 253px;
   }
+
   .bottomK {
     width: 100%;
     height: calc(368px - 253px);
@@ -1336,10 +1388,10 @@ h6 {
   position: absolute;
   width: 196px;
   height: 53px;
-  background-image: url("imgK/04k.png");
+  background-image: url("imgKk/04k.png");
   background-repeat: no-repeat;
   background-size: contain;
-  top: calc(450px - 53px);
+  top: 675.2%;
   left: 42%;
 }
 
@@ -1347,10 +1399,10 @@ h6 {
   position: absolute;
   width: 55px;
   height: 173px;
-  background-image: url("./imgK/k05.png");
+  background-image: url("./imgKk/k05.png");
   background-repeat: no-repeat;
   background-size: contain;
-  top: 2%;
+  top: 625%;
   left: calc(100% - 55px);
 }
 
