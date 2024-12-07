@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="down">
+<path id="Oval" d="M63 32C63 49.1208 49.1208 63 32 63C14.8792 63 1 49.1208 1 32C1 14.8792 14.8792 1 32 1C49.1208 1 63 14.8792 63 32Z" stroke="#F5AE5C" stroke-width="2"/>
+<path id="Path" fill-rule="evenodd" clip-rule="evenodd" d="M45.5 33.0125L44.086 31.589L32.998 42.677V18.5H31.002V42.677L19.914 31.589L18.5 33.0125L32 46.5L45.5 33.0125Z" fill="#F5AE5C"/>
+</g>
+</svg>
