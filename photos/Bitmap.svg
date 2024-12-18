@@ -1,0 +1,10 @@
+<svg width="179" height="186" viewBox="0 0 179 186" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Bitmap">
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M179 164.733C160.432 178.116 137.637 186 113 186C50.5918 186 0 135.408 0 73C0 45.171 10.0599 19.6916 26.7415 0H179V164.733Z" fill="#F5AE5C"/>
+<mask id="mask0_0_229" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="179" height="186">
+<path id="Mask_2" fill-rule="evenodd" clip-rule="evenodd" d="M179 164.733C160.432 178.116 137.637 186 113 186C50.5918 186 0 135.408 0 73C0 45.171 10.0599 19.6916 26.7415 0H179V164.733Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_229)">
+</g>
+</g>
+</svg>
